@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/coola/CLionProjects/PaymentSim/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.2.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\PaymentSim.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\PaymentSim.dir\\main.cpp.obj -c C:\\Users\\coola\\CLionProjects\\PaymentSim\\main.cpp",
+  "file": "C:/Users/coola/CLionProjects/PaymentSim/main.cpp",
+  "output": "C:/Users/coola/CLionProjects/PaymentSim/cmake-build-debug/CMakeFiles/PaymentSim.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/coola/CLionProjects/PaymentSim/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.2.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\PaymentSim.dir\\PaymentMethod.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\PaymentSim.dir\\PaymentMethod.cpp.obj -c C:\\Users\\coola\\CLionProjects\\PaymentSim\\PaymentMethod.cpp",
+  "file": "C:/Users/coola/CLionProjects/PaymentSim/PaymentMethod.cpp",
+  "output": "C:/Users/coola/CLionProjects/PaymentSim/cmake-build-debug/CMakeFiles/PaymentSim.dir/PaymentMethod.cpp.obj"
+}
+]
